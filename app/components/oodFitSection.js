@@ -10,7 +10,7 @@ export default function GoodFitSection() {
             src="https://onecdn.io/media/8b33ed6f-a948-4700-b932-01e010249a7a/preview"
             alt="Caregiver with elderly resident"
             fill
-            sizes="(max-width: 768px) 96vw, 32vw"
+            sizes="(max-width: 768px) 100vw, 33vw"
             className="object-cover"
             priority
           />
@@ -21,7 +21,7 @@ export default function GoodFitSection() {
             src="https://onecdn.io/media/911f520c-8e78-43af-83d9-7fcbd4fbeb0f/md2x"
             alt="Healthcare professional in red uniform"
             fill
-            sizes="(max-width: 768px) 96vw, 32vw"
+            sizes="(max-width: 768px) 100vw, 33vw"
             className="object-cover"
             priority
           />
@@ -32,7 +32,7 @@ export default function GoodFitSection() {
             src="https://onecdn.io/media/b1580e32-784e-4bce-81c0-92a7674d8b5e/md2x"
             alt="Residents enjoying the facility"
             fill
-            sizes="(max-width: 768px) 96vw, 32vw"
+            sizes="(max-width: 768px) 100vw, 33vw"
             className="object-cover"
             priority
           />
